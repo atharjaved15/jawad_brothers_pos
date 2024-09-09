@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742429576039",
+    "project_id": "pos-general-app",
+    "storage_bucket": "pos-general-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742429576039:android:0b17a402edfa86b89f7dc2",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwA-NxWt37yVHswMnh-V0bcNYctIy6dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742429576039:android:61e83d8cb03d42d19f7dc2",
+        "android_client_info": {
+          "package_name": "com.example.jawadbrotherspos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwA-NxWt37yVHswMnh-V0bcNYctIy6dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
